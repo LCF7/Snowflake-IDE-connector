@@ -1,0 +1,9 @@
+{
+    "user": "ABCD",
+    "password": "XYZXYZ",
+    "account": "ABCDE-XYZ",
+    "warehouse": "QA_WH",
+    "database": "RAW",
+    "schema": "SOURCE_1"
+  }
+
